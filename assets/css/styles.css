@@ -20,12 +20,12 @@
   --container-color: #FFF;
   --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
   --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%);
-  --color1:#3252A0;
+  --color1:#000000;
   --colorbuatfont: #ffff;
   --colorbtn: #FFF;
   --color3: #FFF;
   --color4: #FFF;
-  --color5:#3252A0;
+  --color5:#000000;
   --color6: #FFF;
 
 
@@ -815,6 +815,7 @@ img {
 
 .project__bg {
   background-color: var(--color1);
+  margin: 12px;
   padding-top: 3rem;
   padding-bottom: 3rem;
   border-radius: 20px;
