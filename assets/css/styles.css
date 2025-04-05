@@ -17,16 +17,16 @@
   --text-color-light: hsl(var(--hue-color), 8%, 65%);
   --input-color: hsl(var(--hue-color), 70%, 96%);
   --body-color: hsl(var(--hue-color), 60%, 99%);
-  --container-color: #FFF;
+  --container-color: #ffffff;
   --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
   --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%);
   --color1:#000000;
-  --colorbuatfont: #ffff;
-  --colorbtn: #FFF;
-  --color3: #FFF;
-  --color4: #FFF;
+  --colorbuatfont: #ffffff;
+  --colorbtn: #ffffff;
+  --color3: #ffffff;
+  --color4: #ffffff;
   --color5:#000000;
-  --color6: #FFF;
+  --color6: #ffffff;
 
 
   /*========== Font and typography ==========*/
@@ -79,11 +79,11 @@ body.dark-theme {
   --container-color: hsl(var(--hue-color), 29%, 16%);
   --scroll-bar-color: hsl(var(--hue-color), 12%, 48%);
   --scroll-thumb-color: hsl(var(--hue-color), 12%, 36%);
-  --color1: #ffff;
+  --color1: #ffffff;
   --colorbuatfont: #121212;
   --colorbtn: #121212;
   --color3: #121212;
-  --color4: #ffff;
+  --color4: #ffffff;
   --color5:#121212;
   --color6: #121212;
 
@@ -388,7 +388,7 @@ img {
 }
 
 .button--white:hover {
-  background-color: #FFF;
+  background-color: #ffffff;
 }
 
 .button--flex {
@@ -976,7 +976,7 @@ img {
 }
 
 .footer__title, .footer__subtitle, .footer__link, .footer__social {
-  color: #FFF;
+  color: #ffffff;
 }
 
 /*========== SCROLL UP ==========*/
@@ -998,7 +998,7 @@ img {
 
 .scrollup__icon {
   font-size: 1.5rem;
-  color: #FFF;
+  color: #ffffff;
 }
 
 /* Show scroll */
